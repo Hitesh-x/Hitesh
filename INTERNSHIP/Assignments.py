@@ -1,4 +1,4 @@
-Assignment 1
+#Assignment 1
 
 # Question 1
 
@@ -6,7 +6,6 @@ Assignment 1
 name = input("Name: ")
 student_class = input("Class: ")
 
-# Marks input
 print("Enter marks of 5 subjects:")
 m1 = int(input("Subject 1: "))
 m2 = int(input("Subject 2: "))
@@ -26,7 +25,7 @@ print("Class:", student_class)
 print("Total Marks:", total)
 print("Percentage:", percent)
 
-Question 2
+#Question 2
 
 
 first = input("First DatA: ")
